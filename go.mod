@@ -1,4 +1,4 @@
-module github.com/libsv/go-bt
+module github.com/ejfhp/go-bt
 
 go 1.15
 
